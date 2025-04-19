@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Learn to have the difficult discussions with your manager that will get you the career progress, the levels of impact, the rewards and quality of work life you want.",favicon:"https://framerusercontent.com/assets/mM6ihr3X1ua8udFCetE7UWq8DMA.svg",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/0U9QWH03x0GkWCuuoSOl6E0rQ8.jpg",title:"Say the Thing to your Manager - A Career Sabotage Course"}}export{e as a};
+//# sourceMappingURL=chunk-C766373U.mjs.map
